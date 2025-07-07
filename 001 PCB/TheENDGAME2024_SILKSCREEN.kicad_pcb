@@ -85,7 +85,7 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
-		(grid_origin 140.07 82.944)
+		(grid_origin 255.37 146.3178)
 		(pcbplotparams
 			(layerselection 0x60290aa_7fffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -195,7 +195,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "6d56c507-d2ae-4fff-9297-88d509fa048a")
@@ -207,7 +207,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "7dcbb721-cb05-44c0-aa08-484c6f27647c")
 			(effects
@@ -218,7 +218,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d05cdd15-2a74-4ff9-a62c-d3b44e485758")
@@ -230,7 +230,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "59f80d73-14dd-40ff-924b-041ade2c17a5")
@@ -242,7 +242,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5eb3867d-c735-4b93-a0e2-43e39ac35bc0")
@@ -5138,7 +5138,7 @@
 			(uuid "a513438e-6ab5-4e50-b924-4555afedd6de")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6546a843-e47a-4870-b718-1b7b11b81608")
 			(effects
@@ -5220,7 +5220,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "b1dd2a3d-b9b7-4899-858e-e90693e427ba")
@@ -5232,7 +5232,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING WHO THE F IS ALICE SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ea652495-d955-48ef-a5ee-a753d6b0c58f")
@@ -5244,7 +5244,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING WHO THE F IS ALICE SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f5a35c08-a410-4732-bba7-f9d5f8beea3c")
@@ -5256,7 +5256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c0c78e63-f5b0-4a0d-9f6a-e3a562097ffb")
@@ -5268,7 +5268,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1179312-535e-4ae3-99b8-d28d64cb216e")
@@ -9437,7 +9437,7 @@
 			(uuid "1b6699ac-aae2-4a65-8338-1df1e84b8eeb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7e9a0a6d-d44e-4d31-b57b-431c771261af")
 			(effects
@@ -9522,7 +9522,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "ecec7823-f360-459f-970d-a8578d15bc05")
@@ -9534,7 +9534,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "96b0fd9e-4d24-4540-a69b-ac09b8b45a34")
 			(effects
@@ -9545,7 +9545,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "478c4687-1eec-4516-83ae-ca078c9a2d22")
@@ -9557,7 +9557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e39e7e1-5332-45fb-95b2-20bfbf11e3e7")
@@ -9569,7 +9569,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e7701495-b034-4e88-acf9-66c06361f905")
@@ -14465,7 +14465,7 @@
 			(uuid "facc6fb5-f1ae-4c3c-b036-fcd68f895a55")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "fbd894b7-ab64-4428-8eb1-20a28b8ec595")
 			(effects
@@ -14722,7 +14722,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "b0d6e348-d1c6-4e62-9776-ca4d31f75e3b")
@@ -14734,7 +14734,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "9b873b74-e5ce-4293-9385-b66d07201e10")
 			(effects
@@ -14745,7 +14745,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22e29696-0953-4ac7-bc3d-b2c3545e8c86")
@@ -14757,7 +14757,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c593a04b-666a-4336-9792-13ce234f6e2f")
@@ -14769,7 +14769,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2ac82cf0-90d9-4e2b-9c2d-308cc23c8fad")
@@ -19665,7 +19665,7 @@
 			(uuid "e3a1d570-edbe-464f-84f2-43bb98cff212")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b1e2e778-83fa-4499-b4d9-a2ab9898bfe6")
 			(effects
@@ -19747,7 +19747,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "d8e1ad3b-8e31-4fc0-b059-e6b837bf1c37")
@@ -19759,7 +19759,7 @@
 			)
 		)
 		(property "Value" "MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "73e80bcb-1a76-46ee-8488-a54d5717cf24")
 			(effects
@@ -19770,7 +19770,7 @@
 			)
 		)
 		(property "Footprint" "UWUmasterGatekeeperHusoLib:MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef4aaef1-0f83-49f8-830e-b8618446715f")
@@ -19782,7 +19782,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9d685899-4973-4489-aa28-9bb2584e5e89")
@@ -19794,7 +19794,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "848cc408-a1ec-4851-b661-d675606b1419")
@@ -19807,7 +19807,7 @@
 		)
 		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7da1311b-0316-4057-83cf-aa562cbdbe55")
 			(effects
@@ -19857,7 +19857,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "d6eb1920-e2f1-4d88-b8c0-b62d0a6b6941")
@@ -19869,7 +19869,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING TOXIC SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "ae8be2cb-4387-4f68-b11f-ae82d195357e")
 			(effects
@@ -19880,7 +19880,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING TOXIC SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7ab745d3-585d-441b-8765-54b758acbd86")
@@ -19892,7 +19892,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75998035-d6db-4577-b720-994e4b97947b")
@@ -19904,7 +19904,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a36cbdd8-15bf-42c2-ad61-6b5fce09c036")
@@ -24501,7 +24501,7 @@
 			(uuid "ba36dd9e-bcda-4790-9bc5-c1717c894e89")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "462dae3e-593e-4223-878c-1556478a2a16")
 			(effects
@@ -24586,7 +24586,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "bb123564-88c8-4d39-8e65-e717a02425f8")
@@ -24598,7 +24598,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "fd90f917-1986-447d-98f5-051d4e237065")
 			(effects
@@ -24609,7 +24609,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5b4148d5-e020-4b2d-9a49-db6398cbcd22")
@@ -24621,7 +24621,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b70ba59-3f04-45b6-8116-ca109be498ec")
@@ -24633,7 +24633,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7e33bfe6-23ba-4ecd-a1a6-56df294e3fc2")
@@ -29529,7 +29529,7 @@
 			(uuid "1069d544-8aed-46aa-b6af-e95b73a62357")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "99ee4124-d148-4265-bae7-22b3dae5de2a")
 			(effects
@@ -29611,7 +29611,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "5c7d68c5-1048-472c-9e50-98935770fd17")
@@ -29623,7 +29623,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "865c9879-0107-4cb7-8f99-4130aedb9357")
 			(effects
@@ -29634,7 +29634,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b28cc6f9-a7ba-4107-a08c-6860071d73c2")
@@ -29646,7 +29646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b7712eb1-2b14-4344-9454-ae00792f1322")
@@ -29658,7 +29658,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3fb5936e-29a0-4b17-93bf-4249d87cd96a")
@@ -34554,7 +34554,7 @@
 			(uuid "f2610042-80e3-43ed-80bf-bce1af72b2dc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b1f6326d-2fe9-46b0-aca6-926c2a0e7937")
 			(effects
@@ -34636,7 +34636,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "3f4f2b6a-b542-4c2e-998a-37f77824a7e2")
@@ -34648,7 +34648,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "6b26f70e-c432-4eb7-ab0f-5a7e8eae0d95")
 			(effects
@@ -34659,7 +34659,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "08fab414-11ec-4536-9122-f8a68f1c444f")
@@ -34671,7 +34671,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d578e5e3-c1eb-4f6d-a774-9e1ac224f3d1")
@@ -34683,7 +34683,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "88fd35dc-f602-43a8-9291-95d5242d65ef")
@@ -39579,7 +39579,7 @@
 			(uuid "a2b7f6ea-2245-464c-86f8-cf15b7fc99a1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a67a4556-4c27-4ef5-8f77-76af8440e475")
 			(effects
@@ -39661,7 +39661,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "0e782523-a9f0-4118-bbf8-13c5ea6e11d3")
@@ -39673,7 +39673,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING LOVE PEACE UWU SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "98f9e4e7-b987-4dc6-82c1-94d9cd3fb458")
 			(effects
@@ -39684,7 +39684,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING LOVE PEACE UWU SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "84ee64e9-2867-4c43-9045-8272930d1200")
@@ -39696,7 +39696,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c53d772e-9d70-4961-897e-e573ef9b7ecb")
@@ -39708,7 +39708,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "edb16df5-949d-47d3-8290-f007d9b4438f")
@@ -43893,7 +43893,7 @@
 			(uuid "89ef3c9c-250b-407c-9218-1eafb7199e58")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "af6a5f29-ad30-4864-8d62-ede1f6c14718")
 			(effects
@@ -43971,11 +43971,11 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "b3947fcb-343c-4d3e-9d82-5aa1c2f6fa5b")
-		(at 254.463591 145.100735)
+		(at 255.37 146.3178)
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "64f292c1-07bb-4ee2-990c-cafc8b1b8b14")
@@ -43987,7 +43987,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "f8c315db-9cfd-40c7-a30b-c2a21eca3c0b")
 			(effects
@@ -43998,7 +43998,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "658046cc-b129-4804-9361-5a8be5708adb")
@@ -44010,7 +44010,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ed75fdb4-4e1a-42fd-9dcb-8191ca387baf")
@@ -44022,7 +44022,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "93da0e38-891b-44aa-bdd9-af0ce6255074")
@@ -48924,7 +48924,7 @@
 			(uuid "90f2da63-4d7b-4bf9-b2e9-fb917361380b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "17decf42-c8b5-41de-ab5b-75dfe2cdbb79")
 			(effects
@@ -49006,7 +49006,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "e16e2de2-2a4d-47d4-b05c-63387f31300e")
@@ -49018,7 +49018,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "f17e8a7b-6945-4723-b0a2-ff454ea477ec")
 			(effects
@@ -49029,7 +49029,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING MX BAD SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce925c5d-305c-47be-a711-5d09f14a3bc1")
@@ -49041,7 +49041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1340a99-8a82-4e4d-b76e-603fa3edb596")
@@ -49053,7 +49053,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a6fb0f53-bf5f-4e5d-b5df-6ceb7761ebf9")
@@ -53949,7 +53949,7 @@
 			(uuid "f67b4ce4-83ca-48a1-8515-73e6ae60f382")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "cf14fd15-db5d-41bf-8a2d-f3a1a1f7e283")
 			(effects
@@ -54031,7 +54031,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "8c1fbc92-abf3-4853-9d37-d4d0f55e86dc")
@@ -54043,7 +54043,7 @@
 			)
 		)
 		(property "Value" "OM MOUNTING DEEZ NUTZ SILKSCREEN"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "a1481d6e-103b-4b80-bd53-e35f2593acee")
 			(effects
@@ -54054,7 +54054,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:OM MOUNTING DEEZ NUTZ SILKSCREEN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5d080f5d-e3b2-422d-9294-503e2f3c5049")
@@ -54066,7 +54066,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2aa088b7-44a0-4c48-ad36-9d2935091235")
@@ -54078,7 +54078,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e27c8dad-a8c5-46f6-b624-99d9b7686c9b")
@@ -58118,7 +58118,7 @@
 			(uuid "5be6b85d-7427-489d-8d9e-2b7b4cf1975b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "89c6d975-e4d8-4299-b7f3-4969c88f34b3")
 			(effects
@@ -58332,7 +58332,7 @@
 			(uuid "d5279b4a-46c4-4fe6-8264-a39ba6697a72")
 		)
 		(fp_text user "1"
-			(at -5.715001 -13.2825 360)
+			(at -5.715001 -13.2825 0)
 			(layer "F.SilkS")
 			(uuid "209bf2ad-ae69-4dc6-ae05-63b1a29233ce")
 			(effects
@@ -58370,7 +58370,7 @@
 			)
 		)
 		(fp_text user "USB"
-			(at 0 -16.2 360)
+			(at 0 -16.2 0)
 			(layer "Cmts.User")
 			(uuid "cc002d75-aaf3-4d0d-97f5-f98ea268d1d9")
 			(effects
@@ -58709,7 +58709,7 @@
 		(zone
 			(net 0)
 			(net_name "")
-			(layers "*.Cu")
+			(layers "F&B.Cu")
 			(uuid "d1961abb-283b-4cc4-b803-cfff66ee6013")
 			(name "ANT")
 			(hatch edge 0.5)
@@ -58918,7 +58918,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "9dfb455f-9f5c-4fda-b1a6-969d6a2d1aee")
@@ -58930,7 +58930,7 @@
 			)
 		)
 		(property "Value" "MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2cb198d8-e932-40ed-835a-ab0f2cbf02cc")
@@ -58942,7 +58942,7 @@
 			)
 		)
 		(property "Footprint" "UWUmasterGatekeeperHusoLib:MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a22c32df-3bf6-4bcf-ad58-9040bb931ac5")
@@ -58954,7 +58954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9b5a67a9-e2bf-4746-8686-f31de3e277de")
@@ -58966,7 +58966,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c1a412ee-130f-45af-81b0-ccc15f540058")
@@ -58979,7 +58979,7 @@
 		)
 		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e41e75dc-8ed7-483e-a70e-ae5e1b214b96")
 			(effects
@@ -59029,7 +59029,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "9d0286f5-71ae-46f4-9bea-326d8a57c3ee")
@@ -59041,7 +59041,7 @@
 			)
 		)
 		(property "Value" "MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "7bfb50b6-37fb-4ed6-b9c1-9650a810a7dc")
 			(effects
@@ -59052,7 +59052,7 @@
 			)
 		)
 		(property "Footprint" "UWUmasterGatekeeperHusoLib:MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f0d966d7-39ad-446c-b6a2-cc2d74e331b0")
@@ -59064,7 +59064,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "152c1356-a087-4c71-93b8-6ca136ed7e2f")
@@ -59076,7 +59076,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "63b6acfb-426a-463e-bf66-552e3f0cdae1")
@@ -59089,7 +59089,7 @@
 		)
 		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "f6ccf20f-0962-4175-83dd-79762a433f55")
 			(effects
@@ -59139,7 +59139,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "REF**"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "75a8f592-362b-47da-82cb-0185a4137ad7")
@@ -59151,7 +59151,7 @@
 			)
 		)
 		(property "Value" "MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 6.686506 360)
+			(at 0 6.686506 0)
 			(layer "F.Fab")
 			(uuid "4ede71ba-5ada-40ca-b02f-1e69d20f3d42")
 			(effects
@@ -59162,7 +59162,7 @@
 			)
 		)
 		(property "Footprint" "UWUmasterGatekeeperHusoLib:MOUNTING HOLE 4 mm ENDGAME Silver NEW"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "32cec7c8-2fe0-442b-aa38-b82975965ef1")
@@ -59174,7 +59174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2dc9aeea-027b-4898-b7be-1651e0df5035")
@@ -59186,7 +59186,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "20365384-5da4-4516-8bde-e544105accab")
@@ -59199,7 +59199,7 @@
 		)
 		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "0db78459-8f13-4810-92d5-99c3d44ad14c")
 			(effects
@@ -59413,7 +59413,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -59710,7 +59710,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -60211,7 +60211,7 @@
 			(uuid "66ec9067-ddc4-433c-bbc3-d1709a310cc6")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -0.499999 -3.624999)
 			(stroke
 				(width 0.12)
@@ -60221,7 +60221,7 @@
 			(uuid "e7f6d22a-9ea4-4f26-90f5-38b27ad902f2")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -2.3 -4.425)
 			(stroke
 				(width 0.12)
@@ -60272,7 +60272,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890686)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -60335,7 +60335,7 @@
 		)
 		(fp_arc
 			(start 6.95 6.45)
-			(mid 6.803555 6.803554)
+			(mid 6.803554 6.803553)
 			(end 6.45 6.95)
 			(stroke
 				(width 0.05)
@@ -60346,7 +60346,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.95)
-			(mid 6.803554 -6.803555)
+			(mid 6.803553 -6.803554)
 			(end 6.95 -6.45)
 			(stroke
 				(width 0.05)
@@ -60478,7 +60478,7 @@
 			(uuid "8bb0c447-5f4b-42c6-9239-38ec1066402b")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end 0.3 -3.625)
 			(stroke
 				(width 0.05)
@@ -60488,7 +60488,7 @@
 			(uuid "29932c36-ceaf-4fef-aa3f-a720bdc5fb6b")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -2.3 -4.425)
 			(stroke
 				(width 0.05)
@@ -60569,7 +60569,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890686)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -60959,7 +60959,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -61256,7 +61256,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -61965,7 +61965,7 @@
 		)
 		(fp_arc
 			(start 3.4 -1.475)
-			(mid 2.826423 -1.655848)
+			(mid 2.826424 -1.655848)
 			(end 2.460307 -2.13298)
 			(stroke
 				(width 0.05)
@@ -62641,7 +62641,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742892 -6.417893)
+			(mid 2.742893 -6.417893)
 			(end 2.45 -7.125)
 			(stroke
 				(width 0.05)
@@ -62663,7 +62663,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.57727 -3.167231)
+			(mid 1.577269 -3.167231)
 			(end 2.455444 -2.13293)
 			(stroke
 				(width 0.05)
@@ -63131,7 +63131,7 @@
 			(uuid "9f691015-1acb-497c-a37f-8e77d00a126e")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -0.499999 -3.624999)
 			(stroke
 				(width 0.12)
@@ -63141,7 +63141,7 @@
 			(uuid "fce8593a-2748-4b11-aad9-197f33becc53")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -2.3 -4.425)
 			(stroke
 				(width 0.12)
@@ -63192,7 +63192,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890686)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -63255,7 +63255,7 @@
 		)
 		(fp_arc
 			(start 6.95 6.45)
-			(mid 6.803555 6.803554)
+			(mid 6.803554 6.803553)
 			(end 6.45 6.95)
 			(stroke
 				(width 0.05)
@@ -63266,7 +63266,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.95)
-			(mid 6.803554 -6.803555)
+			(mid 6.803553 -6.803554)
 			(end 6.95 -6.45)
 			(stroke
 				(width 0.05)
@@ -63398,7 +63398,7 @@
 			(uuid "222c4a57-f291-4e0b-a5e8-65479bd32413")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end 0.3 -3.625)
 			(stroke
 				(width 0.05)
@@ -63408,7 +63408,7 @@
 			(uuid "da6a43f6-6f4c-45fe-b204-a045fc22955c")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -2.3 -4.425)
 			(stroke
 				(width 0.05)
@@ -63489,7 +63489,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890686)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -63714,7 +63714,7 @@
 		(at 249.11846 82.063541 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW34"
-			(at 5 -7.399998 360)
+			(at 5 -7.399998 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "62759f24-469d-4168-872f-a26d402c9f73")
@@ -63726,7 +63726,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "ac0d62cd-d0ea-4dd1-8d87-761720e2eed8")
@@ -63738,7 +63738,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e415b93-dcbb-4726-8c11-cd82f58c0f88")
@@ -63750,7 +63750,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85e89362-30cc-47b2-998b-457ae73f1a9b")
@@ -63762,7 +63762,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7661ac4b-50d3-4822-94a4-ff8fa1454bbb")
@@ -64187,7 +64187,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -64738,7 +64738,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -65035,7 +65035,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -65434,7 +65434,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D47"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "b41b07b9-0d6a-4161-99c2-cab7947e849c")
@@ -65447,7 +65447,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b5fee51a-356f-4046-9c32-c08f05cca50b")
@@ -65460,7 +65460,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ad0d6226-0270-42f3-9316-938540a2f2f8")
@@ -65472,7 +65472,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ea838d7a-4c08-49ec-a2c4-4901245b3896")
@@ -65484,7 +65484,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d92ac14f-f2a9-49d6-b373-569edb4d9e3a")
@@ -65541,7 +65541,7 @@
 			(uuid "4037d1e0-7254-4608-96c4-a0a090197279")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "f627c4ae-1f19-49f5-8614-9ff01c01631f")
 			(effects
@@ -65778,7 +65778,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D46"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "eb192ed8-a9ef-4209-bb6b-2296b912aaef")
@@ -65791,7 +65791,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2c68f688-8538-4be7-b327-4496696df6e6")
@@ -65804,7 +65804,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f17cd6fa-6d79-4828-9e22-54e8e2f15821")
@@ -65816,7 +65816,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7460ae87-2cea-4a86-a05e-d787d4dec7f6")
@@ -65828,7 +65828,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ce0e485-88b6-4304-b103-ab5166f4f0ba")
@@ -65885,7 +65885,7 @@
 			(uuid "79b64577-b1fc-4b61-bfa7-019ec8ef75d0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "b219aeec-1263-4e14-8259-7cb4e42c389e")
 			(effects
@@ -66113,7 +66113,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -66410,7 +66410,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -67291,7 +67291,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125001)
-			(mid 2.742893 -6.417893)
+			(mid 2.742894 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -67940,7 +67940,7 @@
 		(at 249.118463 99.063539 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW35"
-			(at 5 -7.399998 360)
+			(at 5 -7.399998 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "5d794758-0dc3-40ef-9b68-d6147359ff99")
@@ -67952,7 +67952,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "0fc05241-b96b-4e0d-8aa4-d7b99f1d940b")
@@ -67964,7 +67964,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "18b9895a-b43e-45c9-ba26-ce841eb5d4db")
@@ -67976,7 +67976,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "50e7748a-910f-43b8-852e-aa9f106029c5")
@@ -67988,7 +67988,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "388074a1-8a94-4b0d-b88b-2d935fcea967")
@@ -68413,7 +68413,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -69049,7 +69049,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -69060,7 +69060,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -69294,7 +69294,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.577275 -3.167238)
+			(mid 1.577274 -3.167239)
 			(end 2.455445 -2.13293)
 			(stroke
 				(width 0.05)
@@ -69486,7 +69486,7 @@
 		(at 56.118464 138.563542)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW5"
-			(at 5 -7.4 360)
+			(at 5 -7.4 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "94152a08-2a04-4642-a2d4-87e1469f7c5c")
@@ -69498,7 +69498,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "dbaa9a14-7222-4939-8bd7-1cec2ab8e138")
@@ -69510,7 +69510,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1.5u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5114791d-2246-4262-bc75-a903cc0d8498")
@@ -69522,7 +69522,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04be6301-8200-4fe7-93fe-0c395acef404")
@@ -69534,7 +69534,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fa25be7f-20a5-4846-8281-e48e52688a01")
@@ -69970,7 +69970,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -70595,7 +70595,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -70606,7 +70606,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -71032,7 +71032,7 @@
 		(at 51.618466 116.063542 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW4"
-			(at 5 -7.399998 360)
+			(at 5 -7.399998 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "7e5350bc-4cd6-43ef-92cf-da088a6e40d4")
@@ -71044,7 +71044,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "93c51023-c715-4ae2-96a5-7c9f458304fa")
@@ -71056,7 +71056,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7687428-6dab-4393-bec5-852d629882d3")
@@ -71068,7 +71068,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8e97a007-de53-4691-b506-b45652a5e729")
@@ -71080,7 +71080,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "60aab0fd-d50b-46f9-b18c-7653f8e90236")
@@ -71505,7 +71505,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -72228,7 +72228,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -72525,7 +72525,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -73516,7 +73516,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -73527,7 +73527,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -73761,7 +73761,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.577275 -3.167238)
+			(mid 1.577274 -3.167239)
 			(end 2.455445 -2.13293)
 			(stroke
 				(width 0.05)
@@ -74290,7 +74290,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -74587,7 +74587,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -75234,7 +75234,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -75245,7 +75245,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -75479,7 +75479,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.577275 -3.167238)
+			(mid 1.577274 -3.167239)
 			(end 2.455445 -2.13293)
 			(stroke
 				(width 0.05)
@@ -76201,7 +76201,7 @@
 		(at 51.618467 99.063544 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW3"
-			(at 5 -7.399998 360)
+			(at 5 -7.399998 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "846a613f-9b21-427c-9564-a8c3439f84d8")
@@ -76213,7 +76213,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "6351fb29-78ab-4aeb-b4e9-a4ebed3826ae")
@@ -76225,7 +76225,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a62d7d96-ffee-439d-a7d0-b6fc6a2d6940")
@@ -76237,7 +76237,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "80ca0ada-6de3-4adc-97ed-c7ac0ce648f8")
@@ -76249,7 +76249,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "30e4f867-8b0c-4afc-a4c9-ce75f5ebf59f")
@@ -76674,7 +76674,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -77372,7 +77372,7 @@
 		)
 		(fp_arc
 			(start 3.4 -1.475)
-			(mid 2.826423 -1.655848)
+			(mid 2.826424 -1.655848)
 			(end 2.460307 -2.13298)
 			(stroke
 				(width 0.05)
@@ -78084,7 +78084,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -78381,7 +78381,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -78606,7 +78606,7 @@
 		(at 249.118463 116.06354 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW36"
-			(at 5 -7.399998 360)
+			(at 5 -7.399998 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "3084e419-02b8-4590-b641-97c019b358a3")
@@ -78618,7 +78618,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "4fb468ce-c1cf-42ae-8ee5-18ef2ae6f648")
@@ -78630,7 +78630,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f0d3ebf0-fe7c-4f49-8e8c-d9fc7f12175a")
@@ -78642,7 +78642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a97bb7d2-b8ad-4dd8-bcd5-b3b04468548b")
@@ -78654,7 +78654,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a35e3e2b-bebf-4b90-9a9e-a6c6e556a46d")
@@ -79079,7 +79079,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -79637,7 +79637,7 @@
 		(at 51.618471 82.063534 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW2"
-			(at 5 -7.399998 360)
+			(at 5 -7.399998 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "e806bb56-c396-4c23-b6bf-328650a9c940")
@@ -79649,7 +79649,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "ea730458-6b57-4755-b5a8-97b231926bf4")
@@ -79661,7 +79661,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "19ad0385-f68e-48a2-81f5-3f0dfdea493d")
@@ -79673,7 +79673,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45e2f217-3555-4431-b6f4-3a4245e60424")
@@ -79685,7 +79685,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5cd8c164-6e34-4bf9-a555-a3720aa20b05")
@@ -80110,7 +80110,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -80324,7 +80324,7 @@
 		(at 244.618466 138.563542 180)
 		(descr "Hotswap footprint for Kailh Choc style switches")
 		(property "Reference" "SW37"
-			(at 5 -7.4 360)
+			(at 5 -7.4 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "2685c4b5-c95f-4d6b-a91f-31ff17f1bf1e")
@@ -80336,7 +80336,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 0 6 360)
+			(at 0 6 0)
 			(layer "Cmts.User")
 			(hide yes)
 			(uuid "8780b34d-01b6-4ad5-be76-3826c42f1ca1")
@@ -80348,7 +80348,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:SW_choc_v1_HSxSolder_1.5u_filets_MBK_blk fixxed flipped solder pads"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7731b6ac-528d-40f0-945e-c318195f5d51")
@@ -80360,7 +80360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f5e6954-6fc9-4897-b19d-b51a3fad814c")
@@ -80372,7 +80372,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "35fe9eed-b31c-4640-8a99-42f54df6b37f")
@@ -80797,7 +80797,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742894 -6.417894)
+			(mid 2.742893 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -81667,7 +81667,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125001)
-			(mid 2.742893 -6.417893)
+			(mid 2.742894 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -82526,7 +82526,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125001)
-			(mid 2.742893 -6.417893)
+			(mid 2.742894 -6.417893)
 			(end 2.449999 -7.125)
 			(stroke
 				(width 0.05)
@@ -83151,7 +83151,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -83162,7 +83162,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -83396,7 +83396,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.577275 -3.167238)
+			(mid 1.577274 -3.167239)
 			(end 2.455445 -2.13293)
 			(stroke
 				(width 0.05)
@@ -84072,7 +84072,7 @@
 		)
 		(fp_arc
 			(start 3.4 -1.475)
-			(mid 2.826423 -1.655848)
+			(mid 2.826424 -1.655848)
 			(end 2.460307 -2.13298)
 			(stroke
 				(width 0.05)
@@ -84277,7 +84277,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D7"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "b556dac2-3fcd-412e-82a8-fb39315bcf28")
@@ -84290,7 +84290,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3830c73f-a55e-47a5-be57-eb01b86ee6f3")
@@ -84303,7 +84303,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "46d27c95-3485-4367-bfd9-f31ee0ace591")
@@ -84315,7 +84315,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "89576785-b353-4c4b-855e-e19c57fb1b77")
@@ -84327,7 +84327,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a0efe21a-6baa-4714-82a5-a3e1c2711f47")
@@ -84384,7 +84384,7 @@
 			(uuid "21cc809b-4d7c-4725-b759-b217503ab8ff")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "e18e8cc5-04c0-48e3-a252-6f6eced99f01")
 			(effects
@@ -84621,7 +84621,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D6"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "92afc2ae-682b-4cf4-9a1b-5375947f1c16")
@@ -84634,7 +84634,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea7fb2ed-70e9-4ad3-a8bf-5333525a1901")
@@ -84647,7 +84647,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8e2dcb5f-c08f-4e8c-b4b8-b45ea04ea31b")
@@ -84659,7 +84659,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d0e6264-72d4-4fcf-a0a7-52becf87eba3")
@@ -84671,7 +84671,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1b6d752a-ba78-4829-8d11-79a3bbbb8cf9")
@@ -84728,7 +84728,7 @@
 			(uuid "55b549e8-1b8d-4dcf-b7b3-8460701a7335")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "13473750-4bee-4944-b78e-90ff2d3eac37")
 			(effects
@@ -85264,7 +85264,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742892 -6.417893)
+			(mid 2.742893 -6.417893)
 			(end 2.45 -7.125)
 			(stroke
 				(width 0.05)
@@ -85286,7 +85286,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.57727 -3.167231)
+			(mid 1.577269 -3.167231)
 			(end 2.455444 -2.13293)
 			(stroke
 				(width 0.05)
@@ -85728,7 +85728,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -85739,7 +85739,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -85973,7 +85973,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.577275 -3.167238)
+			(mid 1.577274 -3.167239)
 			(end 2.455445 -2.13293)
 			(stroke
 				(width 0.05)
@@ -86441,7 +86441,7 @@
 			(uuid "b7a0e3b6-2bd2-46d5-9752-756fa0cf2471")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -0.499999 -3.624999)
 			(stroke
 				(width 0.12)
@@ -86451,7 +86451,7 @@
 			(uuid "a7083d70-38ad-463b-8cb7-1bcce83be9f3")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -2.3 -4.425)
 			(stroke
 				(width 0.12)
@@ -86502,7 +86502,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890686)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -86565,7 +86565,7 @@
 		)
 		(fp_arc
 			(start 6.95 6.45)
-			(mid 6.803555 6.803554)
+			(mid 6.803554 6.803553)
 			(end 6.45 6.95)
 			(stroke
 				(width 0.05)
@@ -86576,7 +86576,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.95)
-			(mid 6.803554 -6.803555)
+			(mid 6.803553 -6.803554)
 			(end 6.95 -6.45)
 			(stroke
 				(width 0.05)
@@ -86708,7 +86708,7 @@
 			(uuid "5f7eb153-4da5-45f2-b30f-e7325185338a")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end 0.3 -3.625)
 			(stroke
 				(width 0.05)
@@ -86718,7 +86718,7 @@
 			(uuid "87c80d5d-abd6-4e56-8b28-a25a13c825c0")
 		)
 		(fp_line
-			(start -1.500002 -3.625)
+			(start -1.500002 -3.624999)
 			(end -2.3 -4.425)
 			(stroke
 				(width 0.05)
@@ -86799,7 +86799,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890686)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -87370,7 +87370,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D45"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "ad9dbd51-7075-495e-9cdd-9b596c8e1cd6")
@@ -87383,7 +87383,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1015b05e-24d6-4c25-9b18-544363e51cbd")
@@ -87396,7 +87396,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "48135edb-3d37-47c4-a87d-73e97f178402")
@@ -87408,7 +87408,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cc1a8915-f244-4008-9075-153a44090e46")
@@ -87420,7 +87420,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c2bbdab8-3df3-450c-9d62-0a1760aeec6d")
@@ -87477,7 +87477,7 @@
 			(uuid "38738d96-3190-4708-b45e-963630afb434")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "40b5a6d3-98b1-417e-93c6-14193b55dc7d")
 			(effects
@@ -88013,7 +88013,7 @@
 		)
 		(fp_arc
 			(start 3.45 -6.125)
-			(mid 2.742892 -6.417893)
+			(mid 2.742893 -6.417893)
 			(end 2.45 -7.125)
 			(stroke
 				(width 0.05)
@@ -88035,7 +88035,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.57727 -3.167231)
+			(mid 1.577269 -3.167231)
 			(end 2.455444 -2.13293)
 			(stroke
 				(width 0.05)
@@ -88229,7 +88229,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D44"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "8fc4c600-c908-4e44-958d-3bfad92092ce")
@@ -88242,7 +88242,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "17c923ce-3a95-4fca-b08a-77bab0cdf66c")
@@ -88255,7 +88255,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "08d8dbd2-6a90-4f6a-a9fe-e442d5c1077d")
@@ -88267,7 +88267,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fadd750e-c5a7-4da5-b09e-e78d170c539d")
@@ -88279,7 +88279,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "14ecdcc0-c266-4055-9ecc-8e065a17eda8")
@@ -88336,7 +88336,7 @@
 			(uuid "8f54f0a0-ce13-4650-a5bc-57a831404fa5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "8129050f-c298-4202-80ea-73f9b1af79b4")
 			(effects
@@ -88821,7 +88821,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -88832,7 +88832,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -89066,7 +89066,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.577275 -3.167238)
+			(mid 1.577274 -3.167239)
 			(end 2.455445 -2.13293)
 			(stroke
 				(width 0.05)
@@ -89508,7 +89508,7 @@
 		)
 		(fp_arc
 			(start -6.95 -6.450001)
-			(mid -6.803554 -6.803555)
+			(mid -6.803555 -6.803554)
 			(end -6.45 -6.95)
 			(stroke
 				(width 0.05)
@@ -89519,7 +89519,7 @@
 		)
 		(fp_arc
 			(start -6.450001 6.95)
-			(mid -6.803555 6.803554)
+			(mid -6.803554 6.803555)
 			(end -6.95 6.45)
 			(stroke
 				(width 0.05)
@@ -89753,7 +89753,7 @@
 		)
 		(fp_arc
 			(start 0.299999 -3.624999)
-			(mid 1.577275 -3.167238)
+			(mid 1.577274 -3.167239)
 			(end 2.455445 -2.13293)
 			(stroke
 				(width 0.05)
@@ -90119,7 +90119,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D8"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "4ff9353e-e812-4053-bb10-969bb98525dd")
@@ -90132,7 +90132,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ae3e008e-8f64-463c-9593-24555c1135e3")
@@ -90145,7 +90145,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5607f224-0f7a-4bbf-9819-abd3bc37497b")
@@ -90157,7 +90157,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c1baece3-1437-40db-a8c4-05170fbb1226")
@@ -90169,7 +90169,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3dbce962-8c8f-4711-94da-5ca1f4e5fd85")
@@ -90226,7 +90226,7 @@
 			(uuid "875c0e58-d578-4dd8-94b6-e27175cc5429")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "7b628ae2-ab3e-4db5-a3e8-18f2ba684931")
 			(effects
@@ -90454,7 +90454,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -90751,7 +90751,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015686 -5.890685)
+			(mid 7.015685 -5.890685)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -90978,7 +90978,7 @@
 		(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 		(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
 		(property "Reference" "D5"
-			(at -0.000002 -1.5 360)
+			(at -0.000002 -1.5 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "07c8139e-00da-4b99-af3b-0c8c86ee4ca1")
@@ -90991,7 +90991,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 0 1.2 360)
+			(at 0 1.2 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7dabedc8-0909-4fbc-ac3b-915956a47075")
@@ -91004,7 +91004,7 @@
 			)
 		)
 		(property "Footprint" "TheEndgame2024:Diode_SOD123 filets triangle"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a9b9c9f0-ab1d-4224-9cef-ae61dd06bcdb")
@@ -91016,7 +91016,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7a5dfbf-a47e-4634-96e9-81100ee282f3")
@@ -91028,7 +91028,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b7a1c60f-f4fa-4b2b-b24d-25da037fb6cc")
@@ -91085,7 +91085,7 @@
 			(uuid "232efe57-1055-41f6-8ee7-7c1d79053f14")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 360)
+			(at 0 2 0)
 			(layer "B.Fab")
 			(uuid "0d282f6a-6724-4277-aded-7296a61b5db2")
 			(effects
